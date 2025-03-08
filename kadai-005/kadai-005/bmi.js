@@ -11,5 +11,5 @@ let bmi = weight / (height * height);
 //出力
 console.log(weight);
 console.log(height);
-console.log(bmi);
+console.log(bmi.toFixed(2));
 
